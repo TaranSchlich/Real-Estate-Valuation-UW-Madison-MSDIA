@@ -1,6 +1,8 @@
 # Real Estate Valuation Analysis
 **By: Taran Schlichtmann**
+
 **Date: 10/07/2025**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e-TnVDpEh6sH065Lh7a6U5-FN2e8aMra)
 
 ---
